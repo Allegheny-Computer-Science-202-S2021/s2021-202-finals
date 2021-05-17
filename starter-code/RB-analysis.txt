@@ -1,0 +1,2 @@
+How is a red black tree different from binary search tree and 2-3 trees? Provide your answer using the space below.
+---------------------------------------------------------------
